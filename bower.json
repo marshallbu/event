@@ -1,11 +1,16 @@
 {
-   "name": "event",
-   "repo": "marshallbu/event",
-   "description": "Minimal events: 'on', 'trigger'",
-   "keywords": ["event", "trigger"],
-   "version": "1.0.0",
-   "scripts": ["index.js"],
-   "main": "index.js",
+  "name": "event",
+  "repo": "marshallbu/event",
+  "description": "Minimal events: 'on', 'trigger'",
+  "keywords": [
+    "event",
+    "trigger"
+  ],
+  "version": "1.0.0",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -14,4 +19,9 @@
     "test",
     "tests"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/marshallbu/event",
+  "moduleType": [
+    "amd"
+  ]
 }
