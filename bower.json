@@ -4,5 +4,15 @@
    "description": "Minimal events: 'on', 'trigger'",
    "keywords": ["event", "trigger"],
    "version": "1.0.0",
-   "scripts": ["index.js"]
+   "scripts": ["index.js"],
+   "main": "index.js",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower_modules",
+    "test",
+    "tests"
+  ],
 }
