@@ -1,6 +1,6 @@
 {
    "name": "event",
-   "repo": "itsjoesullivan/event",
+   "repo": "marshallbu/event",
    "description": "Minimal events: 'on', 'trigger'",
    "keywords": ["event", "trigger"],
    "version": "1.0.0",
